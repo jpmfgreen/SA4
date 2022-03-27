@@ -1,3 +1,5 @@
+//teste para verificar as mudanças no código dentro do GIT. 
+//blab bla bla bla
 package controle_estoque;
 
 public class Fornecedores {
